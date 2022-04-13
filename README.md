@@ -1,6 +1,6 @@
 Strong experience in capacity building and multiple teams management as well as 15+ years of experience in software and products development, enterprise systems, cloud platforms, internal and external projects management, architecture, integrations , DevOps and technical support.
 
-During the current role, I have established and led different functions and teams (30+ engineers) such as DevOps and IT customer operations, SecOps and two product's development teams across the PPG group in IQVIA.
+During the current role, I have established and led different functions and teams (40+ engineers) such as DevOps and IT customer operations, SecOps and two product's development teams across the PPG group in IQVIA.
 
 Mohammed has played a pivotal role in various DevOps and software development projects starting from planning, analysis & design, implementation, testing, ‎documentation, operation and maintenance for different large scale projects in Telecom and Healthcare sectors.
 
