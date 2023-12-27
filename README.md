@@ -6,9 +6,6 @@ Mohammed has played a pivotal role in various DevOps and software development pr
 
 Notably, Mohammed is at the forefront of the company's transformation and adaptation to the cloud platform, leveraging orchestration platforms, while infusing solid DevOps practices. Furthermore, my proficiency extends to leading various enterprise software development initiatives utilizing an extensive array of cutting-edge technologies, including J2EE, Oracle Fusion Middleware, Spring, Grails, web services, Openshift/K8s, Jenkins, Ansible and databases.
 
-Email
-moh.kharma@gmail.com
-
 <!---
 mohkharma/mohkharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
