@@ -1,10 +1,10 @@
-Strong experience in capacity building and multiple teams management as well as 15+ years of experience in software and products development, enterprise systems, cloud platforms, internal and external projects management, architecture, integrations , DevOps and technical support.
+Strong experience in capacity building and multiple teams management as well as 15+ years of experience in software and products development, enterprise systems, cloud platforms, projects management, architecture, integrations , DevOps and technical support.
 
-During the current role, I have established and led different functions and teams (40+ engineers) such as DevOps and IT customer operations, SecOps and two product's development teams across the PPG group in IQVIA.
+In my current role, I have been instrumental in establishing and leading diverse functions and teams, leading over 30 engineers across pivotal divisions including DevOps and IT customer operations, SecOps, and two product development teams within the PPG group.
 
 Mohammed has played a pivotal role in various DevOps and software development projects starting from planning, analysis & design, implementation, testing, ‎documentation, operation and maintenance for different large scale projects in Telecom and Healthcare sectors.
 
-Mohammed is leading the company transformation/adaptation toward cloud platform using Redhat Openshift, with solid DevOps practices implementation in addition to participation in different enterprise software development using various technologies such as J2EE, Docker, Redhat Openshift, Jenkins, Ansible, Oracle Fusion Middleware, Spring, Grails, web services, Hibernate, SQL, PL-SQL, Oracle, MS-Server and MySQL.
+Notably, Mohammed is at the forefront of the company's transformation and adaptation to the cloud platform, leveraging orchestration platforms, while infusing solid DevOps practices. Furthermore, my proficiency extends to leading various enterprise software development initiatives utilizing an extensive array of cutting-edge technologies, including J2EE, Oracle Fusion Middleware, Spring, Grails, web services, Openshift/K8s, Jenkins, Ansible and databases.
 
 Email
 moh.kharma@gmail.com
